@@ -33,7 +33,8 @@ NOTE:
 3D visualization:
 
     A 3D model of the bike can visualize a simulation. 
-    This can be done automatically after a simulation run through "RunEnvironment.m" by pressing "yes" when prompted.
+    This can be done automatically after a simulation run through "RunEnvironment.m" 
+    by pressing "yes" when prompted.
 	
 To manually run the 3D model:
 
